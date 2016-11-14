@@ -10,4 +10,5 @@
 
 @interface hello : UIView
 @property (nonatomic, strong) UIView *firstView;
+@property (nonatomic, assign) float price;
 @end
