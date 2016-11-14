@@ -13,4 +13,5 @@
 @property (nonatomic, assign) float price;
 @property (nonatomic, assign) int age;
 @property (nonatomic, assign) BOOL isenter;
+@property (nonatomic, strong) NSSting *name;
 @end
