@@ -16,4 +16,8 @@
 @property (nonatomic, strong) NSSting *name;
 
 @property (nonatomic, strong) NSSting *phoneNumber;
+
+@property (nonatomic, strong) NSSting *nikname;
+@property (nonatomic, strong) NSSting *sex;
+
 @end
