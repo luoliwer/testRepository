@@ -14,4 +14,7 @@
 @property (nonatomic, assign) int age;
 @property (nonatomic, assign) BOOL isenter;
 @property (nonatomic, strong) NSSting *name;
+
+@property (nonatomic, strong) NSSting *nikname;
+@property (nonatomic, strong) NSSting *sex;
 @end
